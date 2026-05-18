@@ -3,6 +3,7 @@
     to each unit foler. Preserves existing interval and transition values if the manifest
     already exists. Run automatically by GitHub Actions on image uploads
 """
+#!/usr/bin/env python3
 
 import argparse, json
 from pathlib import Path
