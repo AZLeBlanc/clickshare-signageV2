@@ -1,0 +1,7 @@
+{
+  "images": [
+    "test-wallpaper2.jpg"
+  ],
+  "interval": 15000,
+  "transition": 2000
+}
