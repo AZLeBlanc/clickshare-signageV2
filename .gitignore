@@ -1,2 +1,2 @@
 # Ignore image manifests
-unites/**/images.json
+unites/*/*/images.json
